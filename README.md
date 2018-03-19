@@ -11,7 +11,9 @@ These instructions will get you a idea of project up and running on your local m
 What things you need to install the software and how to install them
 
 Android Studio
+
 Android SDK
+
 Java 8 Environment
 
 ### Installing
