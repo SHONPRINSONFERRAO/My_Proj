@@ -63,9 +63,9 @@ To uninstall Release App
 ./gradlew uninstallRelease
 ~~~
 
-### Docker Instructions
+## Docker Instructions
 
-## Project Pre Requisites
+### Project Pre Requisites
 
 Google SDK config json file
 To be placed inside App folder(inside app)
@@ -83,4 +83,17 @@ Keystore file
 To be placed inside Root folder(inside deals-android)
 ~~~
 jumia_classifieds_deals.jks
+~~~
+
+### Docker Commands
+
+Please refer files
+# DockerFile
+# docker-compose.yml
+# compile.sh
+
+To build Image
+
+~~~
+docker-compose build
 ~~~
