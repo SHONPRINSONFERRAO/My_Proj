@@ -88,12 +88,18 @@ jumia_classifieds_deals.jks
 ### Docker Commands
 
 Please refer files
-# DockerFile
-# docker-compose.yml
-# compile.sh
+#### DockerFile
+#### docker-compose.yml
+#### compile.sh
 
 To build Image
 
 ~~~
 docker-compose build
+~~~
+
+To get build apk
+
+~~~
+docker-compose up
 ~~~
